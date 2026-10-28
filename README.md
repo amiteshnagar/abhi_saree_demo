@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Abhi Saree Collection — Boutique Web Application
 
 A luxury, editorial e-commerce catalog website built for **Abhi Saree Collection**, an ethnic wear boutique based in Pachore, District Rajgarh, Madhya Pradesh, managed by Shailu.
@@ -23,3 +24,7 @@ npm run dev
 # 3. Build for production preview
 npm run build
 npm run preview
+=======
+# abhi_saree_demo
+Abhi_saree_demo with the help of google ai studio
+>>>>>>> 20ef7bf77c593398580e41d92e70af8eda9ed81d
